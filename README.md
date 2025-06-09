@@ -1,7 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/Raghav-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raghavgarg2002/)
-![Instagram Badge](https://img.shields.io/badge/grraghav120@gmail.com-follow%20on%20Gmail-blue?style=for-the-badge&logo=gmail)
-
-## Celebrating 300+ Active Users on Expense Tracker 🥳🎉🍾
 
 # ExpenseTracker
 - Implemented robust APIs using Express.js and Node.js, enabling smooth data retrieval and manipulation.
@@ -25,12 +21,6 @@
    <img src="https://img.shields.io/github/forks/grraghav120/expense-tracker?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/grraghav120/expense-tracker?style=for-the-badge" />
 </div>  
-
-# Quick Acces 😏
-
-Click Below link:
-[Quick Access](https://expense-tracker-120.netlify.app/welcome?email=abc@gmail.com&pass=12345678)
-
 
 # How to Use 👥 (Features of Application)
 - Make an Account (SignUp) for first Time.
@@ -110,13 +100,3 @@ Update info
 # Database
 
 ![image](https://github.com/grraghav120/expense-tracker/assets/96789493/b490db8a-d765-4506-af9c-31185646ad2d)
-
-
-
-## Development server
-- Run `npm i` or `npm install`.
-- Download Angular Material `ng add @angular/material`.
-- Download Bootstrap `npm install bootstrap`.
-- Run `ng serve`
-- Navigate to  `http://localhost:4200/`.
-- The application will automatically reload if you change any of the source files.
